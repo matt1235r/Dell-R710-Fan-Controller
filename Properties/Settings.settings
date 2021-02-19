@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="r710_Fan_Control.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="idracHostname" Type="System.String" Scope="User">
+      <Value Profile="(Default)">192.168.0.4</Value>
+    </Setting>
+    <Setting Name="idracUsername" Type="System.String" Scope="User">
+      <Value Profile="(Default)">root</Value>
+    </Setting>
+    <Setting Name="idracPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">calvin</Value>
+    </Setting>
+    <Setting Name="log" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="waitTime" Type="System.TimeSpan" Scope="User">
+      <Value Profile="(Default)">00:00:30</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
